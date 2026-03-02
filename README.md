@@ -12,7 +12,7 @@ Mais do que "funcionar", o objetivo foi entender como estruturar a lógica de ne
 
 O sistema simula as principais operações de uma conta bancária:
 Abrir Conta
-Permite criar uma conta informando:
+Permite criar uma conta informando
 Nome do cliente
 Número da conta
 Tipo da conta:
